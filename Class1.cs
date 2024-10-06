@@ -8,5 +8,6 @@ namespace Ejemplo
 {
     public class Class1
     {
+
     }
 }
